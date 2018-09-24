@@ -51,6 +51,7 @@ it onto the terminal
 Here is an example client program which utlizes the KYPDscanner library:
 
 #####################################################
+
 from KYPDscanner import KYPDscanner
 
 PmodKYPD = KYPDscanner(8, 10, 12, 16, 18, 22, 24, 26)
