@@ -1,7 +1,10 @@
 # Pmod-KYPD-Library
 KYPDscanner version 1.0 9/23/18
+
 Written by Adam Korycki 2018
+
 This program is an open-source, object-oriented library for interfacing the PmodKYPD with the raspberry pi
+
 Send bugreports, fixes, enhancements, t-shirts, money, beer & pizza to akorycki@ucsc.edu
 __________________________________________________________________________________________________________
 Hardware connections:
