@@ -20,8 +20,6 @@ Hardware connections:
 In total, there should be 12 wires connected between the RPi and PmodKYPD. Of which, 4 are either +5V or GND 
 and the remaining 8 are individually connected to 8 seperate general-purpose IO pins on the RPi
 
-It is recomended to use a dual-row 12-pin ribbon cable, along with jumpers, to connect between the RPi and 
-PmodKYPD
 __________________________________________________________________________________________________________
 Software:
 
