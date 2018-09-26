@@ -43,7 +43,7 @@ Where pin 8 on the RPi is connected to column 4, or pin 1 on the PmodKYPD etc...
 
 The current vesrion of the KYPDscanner library has 2 functions:
 
-*begin() is a function which echos keypad input onto the terminal
+*echo() is a function which echos keypad input onto the terminal
 
 *string() is a fuction which takes a series of keypad inputs and, when the letter 'E' is pressed, displays
 it onto the terminal
@@ -57,6 +57,6 @@ from KYPDscanner import KYPDscanner
 
 PmodKYPD = KYPDscanner(8, 10, 12, 16, 18, 22, 24, 26)
 
-PmodKYPD.begin()
+PmodKYPD.echo()
 
 #####################################################
