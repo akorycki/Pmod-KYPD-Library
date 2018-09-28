@@ -41,7 +41,7 @@ Pmod_scanner = KYPDscanner(8, 10, 12, 16, 18, 22, 24, 26)
 
 Where pin 8 on the RPi is connected to column 4, or pin 1 on the PmodKYPD etc...
 
-The current vesrion of the KYPDscanner library has 2 functions:
+The current vesrion of the KYPDscanner library has 3 functions:
 
 *scan() returns a charcter is a key is pressed
 
