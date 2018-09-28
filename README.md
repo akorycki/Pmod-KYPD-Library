@@ -1,4 +1,4 @@
-# Pmod-KYPD-Library
+# PmodKYPD-Library
 KYPDscanner version 1.0 9/23/18
 
 Written by Adam Korycki 2018
