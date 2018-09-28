@@ -43,7 +43,7 @@ Where pin 8 on the RPi is connected to column 4, or pin 1 on the PmodKYPD etc...
 
 The current vesrion of the KYPDscanner library has 3 functions:
 
-*scan() returns a charcter is a key is pressed
+*scan() returns a charcter when a key is pressed
 
 *echo() is a function which echos keypad input onto the terminal
 
