@@ -15,7 +15,7 @@ class KYPDscanner:
         self.ROW2 = ROW2
         self.ROW1 = ROW1
         
-        GPIO.setup(COL4, GPIO.OUT)  #COL 4
+        GPIO.setup(COL4, GPIO.OUT) #COL 4
         GPIO.setup(COL3, GPIO.OUT) #COL 3
         GPIO.setup(COL2, GPIO.OUT) #COL 2
         GPIO.setup(COL1, GPIO.OUT) #COL 1
